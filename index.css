@@ -1,0 +1,14 @@
+body div {
+	margin-top: 100px;
+}
+
+div div {
+	height: 300px;
+	border-bottom: 1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 3px 5px #eee;
+	margin-bottom: 15px;
+	position: relative;
+	opacity: 0;
+	background-color: #eee;
+}
